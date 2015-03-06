@@ -1,0 +1,37 @@
+server {
+	listen   80;
+	root /;
+	index index.php index.htm;
+	server_name www.xxx.dev;
+
+	location ~* \.(gif|jpg|jpeg|png|css|js|ico|eot|svg|ttf|woff)$ {
+		root /;
+	}
+
+	location / {
+		include /etc/nginx/fastcgi_params;
+		fastcgi_param SCRIPT_FILENAME /index.php;
+		fastcgi_pass 127.0.0.1:9000;
+		fastcgi_index index.php;
+	}
+
+}
+
+server {
+        listen   80;
+        root /;
+        index index.php index.htm;
+        server_name www.yyy.dev;;
+
+        location ~* \.(gif|jpg|jpeg|png|css|js|ico|eot|svg|ttf|woff)$ {
+                root /;
+        }
+        
+        location / {
+                include /etc/nginx/fastcgi_params;
+                fastcgi_param SCRIPT_FILENAME /index.php;
+                fastcgi_pass 127.0.0.1:9000;
+                fastcgi_index index.php;
+        }       
+        
+} 
