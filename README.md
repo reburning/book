@@ -24,6 +24,22 @@ Ebook
 
 		nginx
 
+####kotlin
+
+		kotlin-docs.pdf
+
+####management
+
+		ProjectManagement.pdf
+
+####papers
+
+		amazon-dynamo-sosp2007.pdf
+		druid.pdf
+		mesos_tect_report.pdf
+		online-ad-auctions.pdf
+		Scalability.pdf
+
 ####novel
 		
 		Google与百度：全球两大搜索巨头的技术创新与盈利策略 ? 诚主编.pdf
@@ -51,6 +67,7 @@ Ebook
 		Programming Scala copy.pdf
 		Scala编程-影印版.pdf
 		对Java的修正与超越-Scala的一致性和简单性.pdf
+		ScanaByExample.pdf
 
 ####編譯
 
