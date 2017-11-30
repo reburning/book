@@ -68,7 +68,38 @@ Ebook
 		Scala编程-影印版.pdf
 		对Java的修正与超越-Scala的一致性和简单性.pdf
 		ScanaByExample.pdf
+		Akka Concurrency.pdf
+		akka模型论文.pdf
 
 ####編譯
 
 		现代编译原理-c语言描述（虎书）.pdf
+
+####bigData
+		AtlasTechnicalUserGuide
+		DMP.pdf
+		kafka-a-distru....System.pdf
+		Methods for Cross-Domain Data fushion.pdf
+		RoaringBitmap.pdf
+
+####dataAnaylsis
+		产品经理数据分析手册.pdf
+		增长黑客手册.pdf
+		数据运营手册.pdf
+		渠道流量分析手册.pdf
+		神策数据-追本数据开启产品智能化时代.pdf
+
+####datawarehouse
+		The DataWarehouse Toolkit.pdf
+		Goods-Organizing Google's Datasets.pdf
+
+####papers
+		amazon-dynamo-sosp2007.pdf
+		druid.pdf
+		efficient-shotest path in social graphs.pdf
+		mesos-tech-report.pdf
+		online-ad-auctions.pdf
+		scalability.pdf
+		shortest-paths in milliesecond.pdf 
+
+
