@@ -41,7 +41,7 @@ Ebook
 		Scalability.pdf
 
 ####novel
-		
+
 		Google与百度：全球两大搜索巨头的技术创新与盈利策略 ? 诚主编.pdf
 		Social Engineering The Art of Human Hacking.pdf
 		推荐系统实践.pdf
@@ -76,6 +76,7 @@ Ebook
 		现代编译原理-c语言描述（虎书）.pdf
 
 ####bigData
+
 		AtlasTechnicalUserGuide
 		DMP.pdf
 		kafka-a-distru....System.pdf
@@ -83,6 +84,7 @@ Ebook
 		RoaringBitmap.pdf
 
 ####dataAnaylsis
+
 		产品经理数据分析手册.pdf
 		增长黑客手册.pdf
 		数据运营手册.pdf
@@ -90,10 +92,12 @@ Ebook
 		神策数据-追本数据开启产品智能化时代.pdf
 
 ####datawarehouse
+
 		The DataWarehouse Toolkit.pdf
 		Goods-Organizing Google's Datasets.pdf
 
 ####papers
+
 		amazon-dynamo-sosp2007.pdf
 		druid.pdf
 		efficient-shotest path in social graphs.pdf
